@@ -1,0 +1,4 @@
+numpy
+opencv-python
+pillow
+# also: ffmpeg/ffprobe in PATH; for repairs RIFE ncnn (rife-ncnn-vulkan, model rife-v4.6), folder via RIFE_DIR
