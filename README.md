@@ -1,5 +1,7 @@
 # Pro Delivery Skill for Claude Code
 
+![Pro Delivery Skill for Claude Code](assets/banner.png)
+
 Turn AI-generated clips (Seedance, Dreamina, Kling, Veo, Magnific …) into clean master files for client hand-off: no frame stutter, no freezes, no dropped or duplicate frames, no background pulse, correct frame rate, sound in sync.
 
 Tested in real AI-to-TV workflows: generated shots that went into a TV production, through a post house, and were accepted.
